@@ -16,4 +16,3 @@ while sequence[i] < 4000000:
     i = i + 1
 
 print(sum(even_list))
-
